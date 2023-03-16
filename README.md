@@ -19,7 +19,6 @@ My name is Osaze ("Aw-Sah-Zeh"). Im currently a Tech Fellow @CodePath.Org. I'm N
 
 # 📈 GitHub Stats!
 [![Osaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=osazeimohe&show_icons=true&theme=radical)](https://github.com/osazeimohe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osazeimohe&show_icons=true&theme=radical)](https://github.com/osazeimohe/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndroidGrp9Codepath&repo=MindfulMind&theme=radical)](https://github.com/AndroidGrp9Codepath/MindfulMind)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osazeimohe&repo=Degrees&theme=radical)](https://github.com/osazeimohe/Degrees)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osazeimohe&repo=FlixsterMovieApp1&theme=radical)](https://github.com/osazeimohe/FlixsterMovieApp1)
