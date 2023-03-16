@@ -1,5 +1,5 @@
 
-![1660952307228](https://user-images.githubusercontent.com/77579038/225479180-52874014-9256-4243-a3a8-a4bb57fc4c32.jpeg)
+![image](https://user-images.githubusercontent.com/77579038/225479312-d3aed54b-087f-446d-be2e-d1a1a7bd2e70.png)
 
 <!--
 **osazeimohe/osazeimohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
