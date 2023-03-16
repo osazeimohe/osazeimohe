@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77579038/225479312-d3aed54b-087f-446d-be2e-d1a1a7bd2e70.png" alt="banner" width="755" height="250">
+<img src="https://user-images.githubusercontent.com/77579038/225479312-d3aed54b-087f-446d-be2e-d1a1a7bd2e70.png" alt="banner" width="755" height="300">
 <!--
 **osazeimohe/osazeimohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
