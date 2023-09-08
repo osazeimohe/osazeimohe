@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/77579038/225479312-d3aed54b-087f-446d-be2e-d1a1a7bd2e70.png" alt="banner" width="755" height="300" style="display:block; margin:auto;">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Osaze ("Aw-Sah-Zeh"). Im currently a Software Engineering Intern @Comcast NBCU . I'm Nigerian-American. I love Android development, Machine Learning and Software Engineering as a whole. <br/>
+My name is Osaze ("Aw-Sah-Zeh"). Im a Comp Sci major @ Albion College. I'm Nigerian-American. I love Android development, Machine Learning and Software Engineering as a whole. <br/>
 
 # 🔧 Technologies & Tools!
 ![](https://img.shields.io/badge/Editor-InellijIDEA-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
